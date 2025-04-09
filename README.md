@@ -1,4 +1,4 @@
-## Hi there! I'm Ahmad Zavari Gask — but most people know me as **Ahmad Agha**
+## Hi there! I'm Ahmad Zavari Gask — but most people know me as **Mr Ahmad**
 
 I’m a C# developer with over 15 years of experience, passionate about learning new things  
 and always eager to explore modern technologies and improve my craft.
@@ -17,26 +17,6 @@ and always eager to explore modern technologies and improve my craft.
 
 Currently focused on developing web applications using **C#** and **SQL Server**.  
 I’m always curious about new technologies and enjoy trying out fresh ideas in my projects.
-
----
-
-### Contact:
-
-[GitHub](https://github.com/amdzvr)
-[LinkedIn](https://www.linkedin.com/in/amdzvr/)
-[Telegram](https://t.me/amdzvr)
-
----
-
-### Inspirational Quote:
-
-> "Learning never stops. Even after 15 years of coding!"
-
----
-
-### Temporary Logo:
-
-![Dev Logo](https://cdn-icons-png.flaticon.com/512/1055/1055687.png)
 
 ---
 
