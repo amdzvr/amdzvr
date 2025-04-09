@@ -1,7 +1,6 @@
 ## Hi there! I'm Ahmad Zavari Gask — but most people know me as **Mr Ahmad**
 
-I’m a C# developer with over 15 years of experience, passionate about learning new things  
-and always eager to explore modern technologies and improve my craft.
+I’m a C# developer with over 15 years of experience, passionate about learning new things and always eager to explore modern technologies and improve my craft.
 
 ---
 
