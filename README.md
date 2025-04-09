@@ -20,5 +20,4 @@ I’m always curious about new technologies and enjoy trying out fresh ideas in 
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=amdzvr&show_icons=true&theme=default
-**Thanks for visiting my profile!**
+![State](https://github-readme-stats.vercel.app/api?username=amdzvr&show_icons=true&theme=default)
