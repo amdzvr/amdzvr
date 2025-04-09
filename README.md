@@ -24,8 +24,7 @@ I’m always curious about new technologies and enjoy trying out fresh ideas in 
 
 [GitHub](https://github.com/amdzvr)
 [LinkedIn](https://www.linkedin.com/in/amdzvr/)
-Telegram
-@amdzvr
+[Telegram](https://t.me/amdzvr)
 
 ---
 
